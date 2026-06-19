@@ -1,4 +1,3 @@
-# Heart Attack Risk Factors Dashboard
 
 ## Project Overview
 This project analyzes heart attack risk factors using a dataset of **3,000 patients**. The interactive dashboard highlights key medical, lifestyle, and demographic risk indicators.
@@ -10,7 +9,8 @@ This project analyzes heart attack risk factors using a dataset of **3,000 patie
 - **Tableau** — Dashboard design and advanced visualizations
 - Data visualization best practices (bar charts, pie charts, histograms)
 
-![Heart Attack Risk Factors Dashboard](images/dashboard.png)
+<img width="1699" height="1599" alt="Dashboard 1 (7)" src="https://github.com/user-attachments/assets/b56ce745-a132-46db-ae49-11efc7284c6f" />
+
 
 ## Key Insights
 - **Total Patients**: 3,000
@@ -36,10 +36,12 @@ This project analyzes heart attack risk factors using a dataset of **3,000 patie
 - Data Visualization principles
 
 ## How to Reproduce
-1. Clone the repo
-2. Open `data/cleaned_data.xlsx` for the processed dataset
-3. Open the Tableau workbook (`.twbx`)
-4. Use the Excel file for any additional pivot analysis
+1. Clone the repo https://github.com/sabaansari7110-max/Heart-attack-risk-dashboard-.git
+
+2. Download & Open https://github.com/sabaansari7110-max/Heart-attack-risk-dashboard-/blob/main/heart_attack_india_xlsx.xlsx for the processed dataset
+
+3. Open the Tableau https://public.tableau.com/app/profile/saba.ansari3517/viz/HeartAttackFactor/Dashboard1
+
 
 ## Future Improvements
 - Add predictive modeling (Python + scikit-learn)
