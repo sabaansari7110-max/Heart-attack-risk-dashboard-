@@ -44,7 +44,6 @@ This project analyzes heart attack risk factors using a dataset of **3,000 patie
 
 
 ## Future Improvements
-- Add predictive modeling (Python + scikit-learn)
 - Deploy dashboard online (Tableau Public)
 - Include statistical tests and correlation analysis
 
