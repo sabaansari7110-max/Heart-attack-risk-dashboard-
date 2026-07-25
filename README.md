@@ -42,6 +42,8 @@ This project analyzes heart attack risk factors using a dataset of **3,000 patie
 
 3. Open the Tableau https://public.tableau.com/app/profile/saba.ansari3517/viz/HeartAttackFactor/Dashboard1
 
+## Kaggle:
+Dataset https://www.kaggle.com/datasets/khushikyad001/heart-attack-risk-prediction-dataset-india
 
 ## Future Improvements
 - Deploy dashboard online (Tableau Public)
