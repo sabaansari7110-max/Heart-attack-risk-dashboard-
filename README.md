@@ -15,7 +15,6 @@ This project analyzes heart attack risk factors using a dataset of **3,000 patie
 - **Total Patients**: 3,000
 - **Average Age**: 55.14 years
 - **Sex Distribution**: 50.73% Female | 49.27% Male
-- 
 - **High Risk Patients**: 12.00%
 
 **Major Risk Factors**:
