@@ -55,3 +55,8 @@ Dataset https://www.kaggle.com/datasets/khushikyad001/heart-attack-risk-predicti
 - Generate sample Excel cleaning scripts
 - Create a more technical version
 - Include badges or a table of contents
+
+# Author 
+Saba Ansari / https://github.com/sabaansari7110-max
+<br>
+sabaansari7110@gmail.com 
