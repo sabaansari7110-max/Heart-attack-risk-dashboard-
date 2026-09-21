@@ -1,5 +1,5 @@
 
-## Project Overview
+# Project Overview
 This project analyzes heart attack risk factors using a dataset of **3,000 patients**. The interactive dashboard highlights key medical, lifestyle, and demographic risk indicators.
 
 **Tools Used**:
