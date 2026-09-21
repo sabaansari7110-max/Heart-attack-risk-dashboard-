@@ -5,7 +5,6 @@ This project analyzes heart attack risk factors using a dataset of **3,000 patie
 **Tools Used**:
 
 - **Excel** — Data cleaning, validation, pivot tables
-- 
 - **Tableau** — Dashboard design and advanced visualizations
 - Data visualization best practices (bar charts, pie charts, histograms)
 
